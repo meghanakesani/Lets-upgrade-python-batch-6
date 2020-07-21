@@ -1,4 +1,4 @@
- Lets upgrade pythin batch 6
+ Lets upgrade python batch 6
 
 
 
