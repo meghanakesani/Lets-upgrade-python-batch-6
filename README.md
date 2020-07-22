@@ -1,4 +1,4 @@
- Lets upgrade python batch 6
+ Lets upgrade python essentials batch 6
 
 
 
